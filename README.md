@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[<img align="left" height="114px" width="114px" alt="Nubank" src="https://certfirst.com/wp-content/uploads/2024/10/Certified-Network-Associate-CCNA-1.png"/>](https://nubank.com.br/)
+[<img align="left" height="114px" width="105px" alt="Nubank" src="https://i.ibb.co/0j9ypGmS/Group-47.png"/>](https://nubank.com.br/)
 [<img align="left" height="114px" width="114px" alt="Nubank" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png"/>](https://nubank.com.br/)
 [<img align="left" height="114px" width="114px" alt="Nubank" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"/>](https://nubank.com.br/)
 <br/><br/><br/><br/><br/><br/>
