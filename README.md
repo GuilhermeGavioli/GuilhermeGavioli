@@ -3,7 +3,7 @@
 
 <h1>Introdução</h1>
 <p>Me chamo Guilherme, sou um profissional de TI, formado em ADS e atualmente Estudante de Graduação em Tecnologia de Redes de Computadores.
-Mais abaixo voce poderá encontrar as tecnologias, protocolos e ferramentas que tenho domínio, bem como alguns dos meus projetos, fique à vontade para testá-los, clona-los ou solicitar colaboração em algum deles.</p>
+Mais abaixo voce poderá encontrar as tecnologias, protocolos e ferramentas que tenho domínio, bem como alguns dos meus projetos, fique à vontade para usa-los, testá-los, clona-los ou solicitar colaboração em algum deles.</p>
 
 <h1 style="color:blue;">Minhas Certificações</h1>
 
