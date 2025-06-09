@@ -4,6 +4,8 @@
 ![Group 105](https://github.com/user-attachments/assets/5194eb1d-02d2-4f78-8265-4bd31a9bad5a)
 <br/><br/>
 
+<h1 style="color:blue;">Blue Title</h1>
+
 ![image](https://img.shields.io/badge/Java-00ffff?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-00ffff?style=for-the-badge&logo=typescript&logoColor=white)
