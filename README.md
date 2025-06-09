@@ -1,9 +1,8 @@
-[<img align="left" height="204px" width="185px" alt="CCNA" src="https://i.ibb.co/0j9ypGmS/Group-47.png"/>](/)
-[<img align="left" height="204px" width="204px" alt="AWS-DVA02" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png"/>](/)
-[<img align="left" height="204px" width="204px" alt="AWS-CloudP." src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"/>](/)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
+![Group 103](https://github.com/user-attachments/assets/0c9b4baf-b255-4e74-bf81-d97935c735fc)
+![Group 104](https://github.com/user-attachments/assets/f0f5e582-db0b-42a7-8aff-201696f543f7)
+![Group 105](https://github.com/user-attachments/assets/5194eb1d-02d2-4f78-8265-4bd31a9bad5a)
+<br/><br/>
 ![image](https://img.shields.io/badge/HTML5-00ffff?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=white)
